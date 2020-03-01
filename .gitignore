@@ -1,0 +1,25 @@
+# Ignore Eclipse/Zend Studio project files
+/.buildpath
+/.project
+/.settings
+
+# Ignore PhpStorm files
+/.idea/
+
+# Ignore files under Mac
+.DS_Store
+
+# Ignore folder /temp
+/temp/*
+
+# Ignore 3rd party tools
+/composer.lock
+/composer.phar
+/vendor/*
+
+# Ignore PHPUnit files
+/.phpunit.result.cache
+/.phpunit.xml
+
+# Ignore PHP CS Fixer files
+/.php_cs
